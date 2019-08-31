@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NickteeChunky/XPBottle
+branches:
+- master
+projects:
+  XPBottle:
+    path: ""
+...
