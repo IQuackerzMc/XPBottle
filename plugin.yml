@@ -8,5 +8,5 @@ commands:
   exp:
     description: Check your current experience.
 permission:
-  redeem.exp:
+  red.exp:
     default: true
